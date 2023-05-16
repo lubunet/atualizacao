@@ -1,0 +1,605 @@
+{
+
+  "Version": "5.0.29",
+
+  "ReleaseNotes": "Nova Atualização Disponível!",
+
+  "UrlUpdate": "https://bitbin.it/HHHj4Mb8/raw//",
+
+  "Sms": "https://bitbin.it/0Kk8YaiJ/raw/",
+
+  "EmailFeedback": "lubu.net@gmail.com",
+
+  "UrlContato": "https://t.me/lubunet",
+
+  "UrlTermos": "https://bitbin.it/gtqlvdg7/raw/",
+
+  "CheckUser": "true",
+
+  "Udp": [
+
+       {
+
+            "Porta": "7300"
+
+        },
+
+        {
+
+            "Porta": "7301"
+
+        },
+
+        {
+
+            "Porta": "7302"
+
+        },
+
+        {
+
+            "Porta": "7303"
+
+        },
+
+        {
+
+            "Porta": "7304"
+
+        },
+
+        {
+
+            "Porta": "7305"
+
+        },
+
+        {
+
+            "Porta": "7306"
+
+        },
+
+        {
+
+            "Porta": "7307"
+
+        },
+
+        {
+
+            "Porta": "7308"
+
+        },
+
+        {
+
+            "Porta": "7309"
+
+        },
+
+        {
+
+            "Porta": "7310"
+
+        },
+
+        {
+
+            "Porta": "7311"
+
+        },
+
+        {
+
+            "Porta": "7312"
+
+        },
+
+        {
+
+            "Porta": "7313"
+
+        },
+
+        {
+
+            "Porta": "7314"
+
+        },
+
+        {
+
+            "Porta": "7315"
+
+        },
+
+        {
+
+            "Porta": "7316"
+
+        },
+
+        {
+
+            "Porta": "7317"
+
+        },
+
+        {
+
+            "Porta": "7318"
+
+        },
+
+        {
+
+            "Porta": "7319"
+
+        },
+
+        {
+
+            "Porta": "7320"
+
+        },
+
+        {
+
+            "Porta": "7321"
+
+        },
+
+        {
+
+            "Porta": "7322"
+
+        },
+
+        {
+
+            "Porta": "7323"
+
+        },
+
+        {
+
+            "Porta": "7324"
+
+        },
+
+        {
+
+            "Porta": "7325"
+
+        },
+
+        {
+
+            "Porta": "7326"
+
+        },
+
+        {
+
+            "Porta": "7327"
+
+        },
+
+        {
+
+            "Porta": "7328"
+
+        },
+
+        {
+
+            "Porta": "7329"
+
+        },
+
+        {
+
+            "Porta": "7330"
+
+        },
+
+        {
+
+            "Porta": "7331"
+
+        },
+
+        {
+
+            "Porta": "7332"
+
+        },
+
+        {
+
+            "Porta": "7333"
+
+        },
+
+        {
+
+            "Porta": "7334"
+
+        },
+
+        {
+
+            "Porta": "7335"
+
+        },
+
+        {
+
+            "Porta": "7336"
+
+        },
+
+        {
+
+            "Porta": "7337"
+
+        },
+
+        {
+
+            "Porta": "7338"
+
+        },
+
+        {
+
+            "Porta": "7339"
+
+        },
+
+        {
+
+            "Porta": "7340"
+
+        },
+
+        {
+
+            "Porta": "7341"
+
+        },
+
+        {
+
+            "Porta": "7342"
+
+        },
+
+        {
+
+            "Porta": "7343"
+
+        },
+
+        {
+
+            "Porta": "7344"
+
+        },
+
+        {
+
+            "Porta": "7345"
+
+        },
+
+        {
+
+            "Porta": "7346"
+
+        },
+
+        {
+
+            "Porta": "7347"
+
+        },
+
+        {
+
+            "Porta": "7348"
+
+        },
+
+        {
+
+            "Porta": "7349"
+
+        },
+
+        {
+
+            "Porta": "7350"
+
+        }
+
+],
+
+  "Servers": [
+
+    {
+
+      "Name": "SERVIDOR - BR1 [ V 29 ]",
+
+      "TYPE": "premium",
+
+      "FLAG": "br.png",
+
+      "ServerIP": "vps.wolfbr.online",
+
+      "CheckUser": "http://vps.wolfbr.online:1011/checkUser",
+
+      "ServerPort": "22",
+
+      "SSLPort": "443",
+
+      "USER": "",
+
+      "PASS": ""
+
+    },
+
+  ],
+
+  "Networks": [ 
+
+    {
+
+      "Name": "🟣 VIVO PRE PROXY 🥇",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET  / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+
+      "SNI": "",
+
+      "TlsIP": "",
+
+      "ProxyIP": "104.16.53.111",
+
+      "ProxyPort": "2052",
+
+      "Info": "Proxy"
+
+    },
+
+   {
+
+      "Name": "🟣 VIVO PRE SSL 🥇",
+
+      "FLAG": "vivo",
+
+      "Payload": "BASELINE-CONTROL ws://[app_host] HTTP/1.1[crlf]Host: ajudac6pay.paygo.com.br[crlf]Proxy-Connection: Keep-Alive[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+
+      "SNI": "[app_host]",
+
+      "TlsIP": "104.16.51.111",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "",
+
+      "Info": "Tlsws"
+
+    },
+
+   {
+
+      "Name": "🟣 VIVO EASY PROXY 🥇",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET  / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+
+      "SNI": "",
+
+      "TlsIP": "",
+
+      "ProxyIP": "104.18.7.80",
+
+      "ProxyPort": "2082",
+
+      "Info": "Proxy"
+
+    },
+
+    {
+
+      "Name": "🟣 VIVO EASY SSL 🥇",
+
+      "FLAG": "vivo",
+
+      "Payload": "BASELINE-CONTROL ws://[app_host] HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Proxy-Connection: Keep-Alive[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+
+      "SNI": "[app_host]",
+
+      "TlsIP": "assine.vivo.com.br",
+
+      "ProxyIP": "",
+
+      "ProxyPort": "",
+
+      "Info": "Tlsws"
+
+    },
+
+    {
+
+      "Name": "🟣 VIVO FRONT 🥇",
+
+      "FLAG": "vivo",
+
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3s3nzjyvi9yo1.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+
+      "SNI": "",
+
+      "TlsIP": "",
+
+      "ProxyIP": "13.227.126.65",
+
+      "ProxyPort": "80",
+
+      "Info": "Proxy"
+
+    },
+
+    {
+
+      "Name": "🔵 TIM DEEZER 🐾",
+
+      "FLAG": "tim",
+
+      "Payload": "HEAD / HTTP/1.1[lf]Host:creatorsupport.deezer.com[lf]:[lf][instant_split][lf]HEAD- / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+
+      "SNI": "",
+
+      "TlsIP": "",
+
+      "ProxyIP": "104.16.53.111",
+
+      "ProxyPort": "80",
+
+      "Info": "Proxy"
+
+    },
+
+    {
+
+      "Name": "🔵 TIM DEE_ST 🐾",
+
+      "FLAG": "tim",
+
+      "Payload": "HEAD / HTTP/1.1[lf]Host:creatorsupport.deezer.com[lf]:[lf][instant_split][lf]HEAD- / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+
+      "SNI": "",
+
+      "TlsIP": "",
+
+      "ProxyIP": "104.16.51.111",
+
+      "ProxyPort": "80",
+
+      "Info": "Proxy"
+
+    },
+
+    {
+
+      "Name": "🔵 TIM 2G/4G🐾",
+
+      "FLAG": "tim",
+
+      "Payload": "HEAD / HTTP/1.1[lf]Host:appdev.c6bank.app[lf]:[lf][instant_split][lf]HEAD- / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+
+      "SNI": "",
+
+      "TlsIP": "",
+
+      "ProxyIP": "104.19.242.25",
+
+      "ProxyPort": "80",
+
+      "Info": "Proxy"
+
+    },
+
+    {
+
+      "Name": "🔵 TIM REGIÕES ✈️",
+
+      "FLAG": "tim",
+
+      "Payload": "MERGE ok.ru HTTP/1.1[crlf]Host: ok.ru[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf]",
+
+      "SNI": "",
+
+      "TlsIP": "",
+
+      "ProxyIP": "[app_host]",
+
+      "ProxyPort": "80",
+
+      "Info": "Proxy"
+
+    },
+
+  
+
+      {
+
+      "Name": "🔴 CLARO PREZÃO 🌶️",
+
+      "FLAG": "claro",
+
+      "Payload": "",
+
+      "SNI": "api.whatsapp.com",
+
+      "TlsIP": "",
+
+      "ProxyIP": "[app_host]",
+
+      "ProxyPort": "443",
+
+      "Info": "Ssl"
+
+    },    
+
+    
+
+      {
+
+      "Name": "🔴 CLARO FLEX 🌶️",
+
+      "FLAG": "claro",
+
+      "Payload": "",
+
+      "SNI": "m.twitter.com",
+
+      "TlsIP": "",
+
+      "ProxyIP": "[app_host]",
+
+      "ProxyPort": "443",
+
+      "Info": "Ssl"
+
+    },    
+
+    
+
+       {
+
+      "Name": "🔴 CLARO CONTROLE 🌶️",
+
+      "FLAG": "claro",
+
+      "Payload": "",
+
+      "SNI": "m.waze.com",
+
+      "TlsIP": "",
+
+      "ProxyIP": "[app_host]",
+
+      "ProxyPort": "443",
+
+      "Info": "Ssl"
+
+    },    
+
+  ]
+
+}
