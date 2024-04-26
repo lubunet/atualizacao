@@ -1,0 +1,295 @@
+{
+  "Version": "5.0.127",
+  "ReleaseNotes": "Nova Atualização Disponível!",
+  "UrlUpdate": "https://bitbin.it/cRoti3yt/raw/",
+  "Sms": "https://bitbin.it/QquPGJMg/raw/",
+  "EmailFeedback": "lubu.net@gmail.com",
+  "UrlContato": "https://t.me/lubunet",
+  "UrlTermos": "https://bitbin.it/gtqlvdg7/raw/",
+  "CheckUser": "true",
+  "Udp": [
+       {
+            "Porta": "7300"
+        },
+        {
+            "Porta": "7301"
+        },
+        {
+            "Porta": "7302"
+        },
+        {
+            "Porta": "7303"
+        },
+        {
+            "Porta": "7304"
+        },
+        {
+            "Porta": "7305"
+        },
+        {
+            "Porta": "7306"
+        },
+        {
+            "Porta": "7307"
+        },
+        {
+            "Porta": "7308"
+        },
+        {
+            "Porta": "7309"
+        },
+        {
+            "Porta": "7310"
+        }
+],
+
+  "Servers": [
+    {
+      "Name": "SERVIDOR - BR2 [ V 127 ]",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "claro.wolfbr.online",
+      "CheckUser": "http://claro.wolfbr.online:1011/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+  ],
+  "Networks": [ 
+{
+      "Name": "🟣 VIVO SECURITY[1] 🚀",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "45.40.99.110",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+},
+
+{
+      "Name": "🟣 VIVO SECURITY[2] 🚀",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL / HTTP1.1 Host: vivomusica.vivo.com.br [protocol] / [raw][crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "45.40.99.110",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+},
+
+{
+      "Name": "🟣 VIVO SECURITY[3] 🚀",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]GET http://m.clarosync.com/ HTTP/1.1 Host: http://m.clarosync.com/
+User-Agent: Yes
+Connection: close
+Proxy-Connection: Keep-Alive
+[crlf][crlf][netData][crlf] [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "45.40.99.110",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+},
+
+{
+      "Name": "🟣 VIVO SECURITY[4] 🚀",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=108.158.161.49;52.85.213.82;52.85.213.26;52.85.213.48;13.227.126.49;104.18.7.41;104.16.56.6;104.19.240.25;104.19.239.25;104.16.9.67][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "45.40.99.110",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+},
+
+{
+      "Name": "🟣 VIVO SECURITY[5] 🚀",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "45.40.99.110",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+},
+
+{
+      "Name": "🟣 VIVO SECURITY[6] 🚀",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][lf]ACL / HTTP/1.1 Websocket [lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "45.40.99.110",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+},
+
+    {
+      "Name": "🟣 VIVO TURBO 📌",
+      "FLAG": "vivo",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: Websocket[lf][instant_split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.239.166",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+    {
+      "Name": "🟣 VIVO EASY[1] 🔛",
+      "FLAG": "vivo",
+      "Payload": "BASELINE-CONTROL ws://[app_host] HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Proxy-Connection: Keep-Alive[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.7.41",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+    {
+      "Name": "🟣 VIVO EASY[2] 🔛",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.37.248",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+    {
+      "Name": "🟣 VIVO EASY IPV4 🔛",
+      "FLAG": "vivo",
+      "Payload": "BASELINE-CONTROL ws://[app_host] HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Proxy-Connection: Keep-Alive[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "assine.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+    {
+      "Name": "🟣 VIVO CONTROLE[1] 🍀",
+      "FLAG": "vivo",
+      "Payload": "CLOUD-BRASIL wss://[app_host] HTTP/1.1[crlf]Host: playwaze.com [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]CLOUD-BRASIL[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.26.5.32",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+    {
+      "Name": "🟣 VIVO CONTROLE[2] 🍀",
+      "FLAG": "vivo",
+      "Payload": "ACL / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: Websocket[lf][instant_split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.239.166",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+    {
+      "Name": "🔵 TIM ACL 🐾",
+      "FLAG": "tim",
+      "Payload": "ACL / HTTP/1.1[crlf]host: www.c6bank.com.br[crlf][crlf][instant_split][crlf]MASTERPAYSSH- / HTTP/1.1[crlf]host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf]@canaldotl[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.239.4",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+    {
+      "Name": "🔵 TIM ACL2 🐾",
+      "FLAG": "tim",
+      "Payload": "ACL wss://[app_host] HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][instant_split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.19.241.93",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+{
+      "Name": "🔵 TIM PRO 🐾",
+      "FLAG": "tim",
+      "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: www.mobile.c6bank.app[crlf][crlf][instant_split][crlf][crlf]TIMBRASIL- / HTTP/1.1[crlf]Host: [app_host][crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.51.100",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+{
+      "Name": "🔵 TIM EXPIRADO 🐾",
+      "FLAG": "tim",
+      "Payload": "MERGE HTTP/1.1[crlf] [crlf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "45.40.99.110",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+      {
+      "Name": "🔴 CLARO PREZÃO 🌶️",
+      "FLAG": "claro",
+      "Payload": "",
+      "SNI": "api.whatsapp.com",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "443",
+      "Info": "Ssl"
+    },    
+    
+      {
+      "Name": "🔴 CLARO FLEX 🌶️",
+      "FLAG": "claro",
+      "Payload": "",
+      "SNI": "musicaclaro.com.br",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "443",
+      "Info": "Ssl"
+    },    
+    
+       {
+      "Name": "🔴 CLARO CONTROLE 🌶️",
+      "FLAG": "claro",
+      "Payload": "",
+      "SNI": "m.waze.com",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "443",
+      "Info": "Ssl"
+    }, 
+    
+   {
+      "Name": "🟢 NOVO FLUKE[1] 🦎",
+      "FLAG": "oi",
+      "Payload": "GET http://web.whatsapp.com HTTP/1.0[crlf]Host: [app_host] http://web.whatsapp.com[crlf]Connection: keep-alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    
+  {
+      "Name": "🟢 NOVO FLUKE[2] 🦎",
+      "FLAG": "oi",
+      "Payload": "GET / HTTP/1.1[crlf]GET m.waze.com HTTP/1.0[crlf]Host: [app_host]http://m.waze.com[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+  ]
+}
