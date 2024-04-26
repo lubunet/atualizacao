@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.104",
+  "Version": "5.0.105",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://bitbin.it/0Kk8YaiJ/raw/",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 104 ]",
+      "Name": "SERVIDOR - BR1 [ V 105 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
