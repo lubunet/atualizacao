@@ -269,7 +269,17 @@ Proxy-Connection: Keep-Alive
       "ProxyPort": "443",
       "Info": "Ssl"
     }, 
-    
+
+{
+      "Name": "🔴 CLARO SECURITY 🦦",
+      "FLAG": "claro",
+      "Payload": "PATCH / [host_port] [protocol]\\r\nHost: minhaclaro.claro.com.br\\r\nConnection: keep-alive\\r\nProxy-Connection: keep-alive\\r\nX-Online-Host: minhaclaro.claro.com.br\\r\nUser-Agent: Mozilla/5.0 (Linux; U; Android 2.0; en-us; Droid Build/ESD20) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17[crlf][raw][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "45.40.99.110",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+},
    {
       "Name": "🟢 NOVO FLUKE[1] 🦎",
       "FLAG": "oi",
