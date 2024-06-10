@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.106",
+  "Version": "5.0.107",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 106 ]",
+      "Name": "SERVIDOR - BR1 [ V 107 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -119,7 +119,10 @@ Proxy-Connection: Keep-Alive
 {
       "Name": "🟣 VIVO SECURITY[6] 🚀",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: meuplano.tim.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
+      "Payload": "PATCH / HTTP/1.1
+Host: vivo.com.br
+Connection: Upgrade
+Upgrade: websocket\n\n",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "189.127.165.149",
