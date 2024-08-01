@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.129",
+  "Version": "5.0.130",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 129 ]",
+      "Name": "SERVIDOR - BR2 [ V 130 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -232,7 +232,7 @@ Proxy-Connection: Keep-Alive
       "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]PATCH / HTTP/1.1[lf]Host: d2iorutqxo66ah.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "timlive.tim.com.br",
+      "ProxyIP": "108.158.137.29",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
