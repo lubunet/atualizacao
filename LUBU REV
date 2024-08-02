@@ -243,7 +243,7 @@ Proxy-Connection: Keep-Alive
       "Payload": "POST /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: launches.appsflyer.com[crlf] [crlf]GET / HTTP/1.1[lf]Host: [rotate=d2iorutqxo66ah.cloudfront.net][lf]Backend:sv16[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "18.173.121.69",
+      "ProxyIP": "launches.appsflyer.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
