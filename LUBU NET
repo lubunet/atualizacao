@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.107",
+  "Version": "5.0.108",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 107 ]",
+      "Name": "SERVIDOR - BR1 [ V 108 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -225,6 +225,17 @@ Upgrade: websocket\n\n",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.51.100",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+    {
+      "Name": "🔵 TIM FRONT 📡",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]GET / HTTP/1.1[lf]Host: d2ood4wb22cb4f.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "18.173.121.69",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
