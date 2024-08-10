@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.134",
+  "Version": "5.0.135",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 134 ]",
+      "Name": "SERVIDOR - BR2 [ V 135 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -240,7 +240,7 @@ Proxy-Connection: Keep-Alive
     {
       "Name": "🔵 TIM FRONT 2 📡",
       "FLAG": "tim",
-      "Payload": "PUT / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]PUT /app1501 HTTP/1.1[crlf]Host: frontcloud8.starbrasil.shop[crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1501 HTTP/1.1[crlf]Host: frontcloud8.starbrasil.shop[crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "18.173.121.69",
