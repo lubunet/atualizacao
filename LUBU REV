@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.137",
+  "Version": "5.0.138",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 137 ]",
+      "Name": "SERVIDOR - BR2 [ V 138 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -229,7 +229,7 @@ Proxy-Connection: Keep-Alive
     {
       "Name": "🔵 TIM FRONT 📡",
       "FLAG": "tim",
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]PATCH /app1501 HTTP/1.1[lf]Host: frontcloud8.starbrasil.shop[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]PATCH /app1120 HTTP/1.1[lf]Host: frontcloud8.starbrasil.shop[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.137.29",
@@ -240,7 +240,7 @@ Proxy-Connection: Keep-Alive
     {
       "Name": "🔵 TIM FRONT 2 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1501 HTTP/1.1[crlf]Host: frontcloud8.starbrasil.shop[crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: frontcloud8.starbrasil.shop[crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "18.172.170.10",
