@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.109",
+  "Version": "5.0.110",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 109 ]",
+      "Name": "SERVIDOR - BR1 [ V 110 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -232,7 +232,7 @@ Upgrade: websocket\n\n",
     {
       "Name": "🔵 TIM FRONT 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1501 HTTP/1.1[crlf]Host: frontcloud8.starbrasil.shop[crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: frontcloud8.starbrasil.shop[crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "18.172.170.10",
