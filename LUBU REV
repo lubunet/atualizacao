@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.141",
+  "Version": "5.0.142",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 141 ]",
+      "Name": "SERVIDOR - BR2 [ V 142 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -243,7 +243,7 @@ Proxy-Connection: Keep-Alive
       "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=t1.computingbrtl.xyz;tl2.computingbrtl.xyz;tl3.computingbrtl.xyz;tl4.computingbrtl.xyz;tl5.computingbrtl.xyz][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "18.172.170.10",
+      "ProxyIP": "3.163.10.104",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
