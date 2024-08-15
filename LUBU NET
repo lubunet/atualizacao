@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.115",
+  "Version": "5.0.116",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 115 ]",
+      "Name": "SERVIDOR - BR1 [ V 116 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -232,7 +232,7 @@ Upgrade: websocket\n\n",
     {
       "Name": "🔵 TIM FRONT 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=tl4.computingbrtl.xyz;tl5.computingbrtl.xyz;tl6.computingbrtl.xyz;tl7.computingbrtl.xyz;tl8.computingbrtl.xyz;tl9.computingbrtl.xyz;tl10.computingbrtl.xyz][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=tl8.computingbrtl.xyz;tl9.computingbrtl.xyz;tl10.computingbrtl.xyz;tl11.computingbrtl.xyz;tl12.computingbrtl.xyz;tl13.computingbrtl.xyz;tl14.computingbrtl.xyz][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "3.163.10.104",
