@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.144",
+  "Version": "5.0.145",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 144 ]",
+      "Name": "SERVIDOR - BR2 [ V 145 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -227,20 +227,9 @@ Proxy-Connection: Keep-Alive
     },
 
     {
-      "Name": "🔵 TIM FRONT 📡",
-      "FLAG": "tim",
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]PATCH /app1120 HTTP/1.1[lf]Host: [rotete=tl4.computingbrtl.xyz;tl5.computingbrtl.xyz;tl6.computingbrtl.xyz;tl7.computingbrtl.xyz;tl8.computingbrtl.xyz;tl9.computingbrtl.xyz;tl10.computingbrtl.xyz][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.158.137.29",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-
-    {
       "Name": "🔵 TIM FRONT 2 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=tl8.computingbrtl.xyz;tl9.computingbrtl.xyz;tl10.computingbrtl.xyz;tl11.computingbrtl.xyz;tl12.computingbrtl.xyz;tl13.computingbrtl.xyz;tl14.computingbrtl.xyz][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d2t7d3opnfyi1h.cloudfront.net;tl8.computingbrtl.xyz;tl9.computingbrtl.xyz;tl10.computingbrtl.xyz;tl11.computingbrtl.xyz;tl12.computingbrtl.xyz;tl13.computingbrtl.xyz;tl14.computingbrtl.xyz][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "3.163.10.104",
