@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.148",
+  "Version": "5.0.149",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 148 ]",
+      "Name": "SERVIDOR - BR2 [ V 149 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -226,10 +226,10 @@ Proxy-Connection: Keep-Alive
       "Info": "Proxy"
     },
 
-    {
+{
       "Name": "🔵 TIM FRONT 2 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d2t7d3opnfyi1h.cloudfront.net;cdn1.cdntlcomputingbr.shop;cdn2.cdntlcomputingbr.shop;cdn3.cdntlcomputingbr.shop;cdn4.cdntlcomputingbr.shop;cdn5.cdntlcomputingbr.shop;cdn6.cdntlcomputingbr.shop;cdn7.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn6.cdntlcomputingbr.shop;cdn7.cdntlcomputingbr.shop;cdn8.cdntlcomputingbr.shop;cdn9.cdntlcomputingbr.shop;cdn10.cdntlcomputingbr.shop;cdn11.cdntlcomputingbr.shop;cdn12.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "3.163.10.104",
