@@ -256,7 +256,7 @@ Upgrade: websocket\n\n",
       "FLAG": "claro",
       "Payload": "GET /app1120 HTTP/1.1[crlf]Host: tlcomputingbrclaro.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "tlcomputingbrclaro.com.br",
-      "TlsIP": "tlcomputingbrclaro.com.br",
+      "TlsIP": "",
       "ProxyIP": "tlcomputingbrclaro.com.br",
       "ProxyPort": "443",
       "Info": "Ssl"
