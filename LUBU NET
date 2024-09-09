@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.123",
+  "Version": "5.0.124",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 123 ]",
+      "Name": "SERVIDOR - BR1 [ V 124 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -259,7 +259,7 @@ Upgrade: websocket\n\n",
       "TlsIP": "",
       "ProxyIP": "tlcomputingbrclaro.com.br",
       "ProxyPort": "443",
-      "Info": "Ssl"
+      "Info": "Proxy"
     },
 
       {
