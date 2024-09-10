@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.124",
+  "Version": "5.0.125",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 124 ]",
+      "Name": "SERVIDOR - BR1 [ V 125 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -252,14 +252,14 @@ Upgrade: websocket\n\n",
     },
 
       {
-      "Name": "🔴 CLARO PRÉ PARO 🌙",
+      "Name": "🔴 CLARO PRÉ PAGO 🌙",
       "FLAG": "claro",
-      "Payload": "GET /app1120 HTTP/1.1[crlf]Host: tlcomputingbrclaro.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "tlcomputingbrclaro.com.br",
-      "TlsIP": "",
-      "ProxyIP": "tlcomputingbrclaro.com.br",
+      "Payload": "GET /app1120 HTTP/1.1[crlf]Host: cdn.tlcomputingbrclaro.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "cdn.tlcomputingbrclaro.com.br",
+      "TlsIP": "cdn.tlcomputingbrclaro.com.br",
+      "ProxyIP": "cdn.tlcomputingbrclaro.com.br",
       "ProxyPort": "443",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
 
       {
