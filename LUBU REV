@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.150",
+  "Version": "5.0.151",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 150 ]",
+      "Name": "SERVIDOR - BR2 [ V 151 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -250,14 +250,14 @@ Proxy-Connection: Keep-Alive
     },
 
       {
-      "Name": "🔴 CLARO PRÉ PARO 🌙",
+      "Name": "🔴 CLARO PRÉ PAGO 🌙",
       "FLAG": "claro",
       "Payload": "GET /app1120 HTTP/1.1[crlf]Host: tlcomputingbrclaro.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "tlcomputingbrclaro.com.br",
-      "TlsIP": "",
+      "TlsIP": "tlcomputingbrclaro.com.br",
       "ProxyIP": "tlcomputingbrclaro.com.br",
       "ProxyPort": "443",
-      "Info": "Ssl"
+      "Info": "Tlsws"
     },
 
       {
