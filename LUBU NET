@@ -252,17 +252,6 @@ Upgrade: websocket\n\n",
     },
 
       {
-      "Name": "🔴 CLARO PRÉ PAGO 🌙",
-      "FLAG": "claro",
-      "Payload": "GET /app1120 HTTP/1.1[crlf]Host: tlcomputingbrclaro.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "tlcomputingbrclaro.com.br",
-      "TlsIP": "tlcomputingbrclaro.com.br",
-      "ProxyIP": "tlcomputingbrclaro.com.br",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-
-      {
       "Name": "🔴 CLARO PREZÃO 🌶️",
       "FLAG": "claro",
       "Payload": "",
