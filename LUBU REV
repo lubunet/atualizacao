@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.153",
+  "Version": "5.0.154",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 153 ]",
+      "Name": "SERVIDOR - BR2 [ V 154 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -250,17 +250,6 @@ Proxy-Connection: Keep-Alive
     },
 
       {
-      "Name": "🔴 CLARO PRÉ PAGO 🌙",
-      "FLAG": "claro",
-      "Payload": "GET /app1120 HTTP/1.1[crlf]Host: tlcomputingbrclaro.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "tlcomputingbrclaro.com.br",
-      "TlsIP": "tlcomputingbrclaro.com.br",
-      "ProxyIP": "tlcomputingbrclaro.com.br",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-
-      {
       "Name": "🔴 CLARO PREZÃO 🌶️",
       "FLAG": "claro",
       "Payload": "",
@@ -293,16 +282,6 @@ Proxy-Connection: Keep-Alive
       "Info": "Ssl"
     }, 
 
-{
-      "Name": "🔴 CLARO SECURITY 🦦",
-      "FLAG": "claro",
-      "Payload": "PATCH / [host_port] [protocol]\\r\nHost: minhaclaro.claro.com.br\\r\nConnection: keep-alive\\r\nProxy-Connection: keep-alive\\r\nX-Online-Host: minhaclaro.claro.com.br\\r\nUser-Agent: Mozilla/5.0 (Linux; U; Android 2.0; en-us; Droid Build/ESD20) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17[crlf][raw][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "45.40.99.110",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-},
    {
       "Name": "🟢 NOVO FLUKE[1] 🦎",
       "FLAG": "oi",
