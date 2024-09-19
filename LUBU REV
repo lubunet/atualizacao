@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.154",
+  "Version": "5.0.155",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 154 ]",
+      "Name": "SERVIDOR - BR2 [ V 155 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -130,7 +130,7 @@ Proxy-Connection: Keep-Alive
 {
       "Name": "🟣 VIVO TURBO 📌",
       "FLAG": "vivo",
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: admit.lpu.in[crlf][crlf]PATCH  /if HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[lf][lf]",
+      "Payload": "ACL / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: Websocket[lf][instant_split][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.64.154.143",
