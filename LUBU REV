@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.151",
+  "Version": "5.0.152",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 151 ]",
+      "Name": "SERVIDOR - BR2 [ V 152 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -71,7 +71,7 @@
 {
       "Name": "🟣 VIVO SECURITY[2] 🚀",
       "FLAG": "vivo",
-      "Payload": "[delay_split]ACL / HTTP1.1 Host: vivomusica.vivo.com.br [protocol] / [raw][crlf][crlf]",
+      "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "45.40.99.110",
@@ -127,13 +127,13 @@ Proxy-Connection: Keep-Alive
       "Info": "Proxy"
 },
 
-    {
+{
       "Name": "🟣 VIVO TURBO 📌",
       "FLAG": "vivo",
-      "Payload": "PATCH / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: Websocket[lf][instant_split][lf]",
+      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[lf]Host: admit.lpu.in[crlf][crlf]PATCH  /if HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.239.166",
+      "ProxyIP": "172.64.154.143",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
