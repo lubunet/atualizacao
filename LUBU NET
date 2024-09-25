@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.128",
+  "Version": "5.0.129",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 128 ]",
+      "Name": "SERVIDOR - BR1 [ V 129 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -232,10 +232,10 @@ Upgrade: websocket\n\n",
     {
       "Name": "🔵 TIM FRONT 2 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d2t7d3opnfyi1h.cloudfront.net;cdn10.cdntlcomputingbr.shop;cdn11.cdntlcomputingbr.shop;cdn12.cdntlcomputingbr.shop;cdn13.cdntlcomputingbr.shop;cdn14.cdntlcomputingbr.shop;cdn15.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d2t7d3opnfyi1h.cloudfront.net;cdn12.cdntlcomputingbr.shop;cdn13.cdntlcomputingbr.shop;cdn14.cdntlcomputingbr.shop;cdn15.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "65.8.178.65",
+      "ProxyIP": "18.64.174.15",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
