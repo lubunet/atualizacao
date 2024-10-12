@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.161",
+  "Version": "5.0.162",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 161 ]",
+      "Name": "SERVIDOR - BR2 [ V 162 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -229,7 +229,7 @@ Proxy-Connection: Keep-Alive
 {
       "Name": "🔵 TIM FRONT 1 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d2t7d3opnfyi1h.cloudfront.net;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "99.84.31.8",
@@ -240,10 +240,10 @@ Proxy-Connection: Keep-Alive
 {
       "Name": "🔵 TIM FRONT 2 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d2t7d3opnfyi1h.cloudfront.net;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.157.173.96",
+      "ProxyIP": "65.8.178.14",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
