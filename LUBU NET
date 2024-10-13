@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.132",
+  "Version": "5.0.133",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 132 ]",
+      "Name": "SERVIDOR - BR1 [ V 133 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -197,12 +197,12 @@ Upgrade: websocket\n\n",
     },
 
     {
-      "Name": "🔵 TIM ACL 🐾",
+      "Name": "🔵 TIM MAIS 🐾",
       "FLAG": "tim",
-      "Payload": "ACL wss://[app_host] HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][instant_split][lf]",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.16.239.4",
+      "ProxyIP": "162.159.140.159",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -214,17 +214,6 @@ Upgrade: websocket\n\n",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.19.241.93",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-
-    {
-      "Name": "🔵 TIM PRO 🐾",
-      "FLAG": "tim",
-      "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: www.mobile.c6bank.app[crlf][crlf][instant_split][crlf][crlf]TIMBRASIL- / HTTP/1.1[crlf]Host: [app_host][crlf]User-Agent: Mobile Safari/9 OPR/9 [crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.51.100",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -247,17 +236,6 @@ Upgrade: websocket\n\n",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "65.8.178.14",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-
-    {
-      "Name": "🔵 TIM EXPIRADO 🐾",
-      "FLAG": "tim",
-      "Payload": "MERGE HTTP/1.1[crlf] [crlf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "189.127.165.149",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
