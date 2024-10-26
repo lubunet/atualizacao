@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.134",
+  "Version": "5.0.135",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 134 ]",
+      "Name": "SERVIDOR - BR1 [ V 135 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -57,6 +57,18 @@
     },
   ],
   "Networks": [ 
+{
+      "Name": "🟣 VIVO CLOUD 🍪",
+      "FLAG": "vivo",
+      "Payload": "GET /lv HTTP/1.1[crlf]Host: firewallfalcon.canaldotl.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "162.159.135.63",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
+
+
 {
       "Name": "🟣 VIVO SECURITY[1] 🚀",
       "FLAG": "vivo",
