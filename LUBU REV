@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.164",
+  "Version": "5.0.165",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 164 ]",
+      "Name": "SERVIDOR - BR2 [ V 165 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -94,44 +94,7 @@
 {
       "Name": "🟣 VIVO SECURITY[3] 🚀",
       "FLAG": "vivo",
-      "Payload": "[delay_split]GET http://m.clarosync.com/ HTTP/1.1 Host: http://m.clarosync.com/
-User-Agent: Yes
-Connection: close
-Proxy-Connection: Keep-Alive
-[crlf][crlf][netData][crlf] [crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "45.40.99.110",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-},
-
-{
-      "Name": "🟣 VIVO SECURITY[4] 🚀",
-      "FLAG": "vivo",
-      "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=108.158.161.49;52.85.213.82;52.85.213.26;52.85.213.48;13.227.126.49;104.18.7.41;104.16.56.6;104.19.240.25;104.19.239.25;104.16.9.67][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "45.40.99.110",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-},
-
-{
-      "Name": "🟣 VIVO SECURITY[5] 🚀",
-      "FLAG": "vivo",
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "45.40.99.110",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-},
-
-{
-      "Name": "🟣 VIVO SECURITY[6] 🚀",
-      "FLAG": "vivo",
-      "Payload": "[delay_split][lf]ACL / HTTP/1.1 Websocket [lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "45.40.99.110",
@@ -230,7 +193,7 @@ Proxy-Connection: Keep-Alive
 {
       "Name": "🔵 TIM FRONT 1 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn20.cdntlcomputingbr.shop;cdn21.cdntlcomputingbr.shop;cdn22.cdntlcomputingbr.shop;cdn23.cdntlcomputingbr.shop;cdn24.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "99.84.31.8",
@@ -241,7 +204,7 @@ Proxy-Connection: Keep-Alive
 {
       "Name": "🔵 TIM FRONT 2 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn20.cdntlcomputingbr.shop;cdn21.cdntlcomputingbr.shop;cdn22.cdntlcomputingbr.shop;cdn23.cdntlcomputingbr.shop;cdn24.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "65.8.178.14",
@@ -260,19 +223,8 @@ Proxy-Connection: Keep-Alive
       "Info": "Ssl"
     },    
     
-      {
-      "Name": "🔴 CLARO FLEX 🌶️",
-      "FLAG": "claro",
-      "Payload": "",
-      "SNI": "musicaclaro.com.br",
-      "TlsIP": "",
-      "ProxyIP": "[app_host]",
-      "ProxyPort": "443",
-      "Info": "Ssl"
-    },    
-    
        {
-      "Name": "🔴 CLARO CONTROLE 🌶️",
+      "Name": "🔴 CLARO CONTROLE/FLEX 🌶️",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.waze.com",
