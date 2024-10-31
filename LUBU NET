@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.135",
+  "Version": "5.0.136",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 135 ]",
+      "Name": "SERVIDOR - BR1 [ V 136 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -94,47 +94,7 @@
 {
       "Name": "🟣 VIVO SECURITY[3] 🚀",
       "FLAG": "vivo",
-      "Payload": "[delay_split]GET http://m.clarosync.com/ HTTP/1.1 Host: http://m.clarosync.com/
-User-Agent: Yes
-Connection: close
-Proxy-Connection: Keep-Alive
-[crlf][crlf][netData][crlf] [crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "189.127.165.149",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-},
-
-{
-      "Name": "🟣 VIVO SECURITY[4] 🚀",
-      "FLAG": "vivo",
-      "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=108.158.161.49;52.85.213.82;52.85.213.26;52.85.213.48;13.227.126.49;104.18.7.41;104.16.56.6;104.19.240.25;104.19.239.25;104.16.9.67][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "189.127.165.149",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-},
-
-{
-      "Name": "🟣 VIVO SECURITY[5] 🚀",
-      "FLAG": "vivo",
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "189.127.165.149",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-},
-
-{
-      "Name": "🟣 VIVO SECURITY[6] 🚀",
-      "FLAG": "vivo",
-      "Payload": "PATCH / HTTP/1.1
-Host: vivo.com.br
-Connection: Upgrade
-Upgrade: websocket\n\n",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "189.127.165.149",
@@ -233,7 +193,7 @@ Upgrade: websocket\n\n",
 {
       "Name": "🔵 TIM FRONT 1 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn20.cdntlcomputingbr.shop;cdn21.cdntlcomputingbr.shop;cdn22.cdntlcomputingbr.shop;cdn23.cdntlcomputingbr.shop;cdn24.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "99.84.31.8",
@@ -244,7 +204,7 @@ Upgrade: websocket\n\n",
 {
       "Name": "🔵 TIM FRONT 2 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: timpospromo.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn20.cdntlcomputingbr.shop;cdn21.cdntlcomputingbr.shop;cdn22.cdntlcomputingbr.shop;cdn23.cdntlcomputingbr.shop;cdn24.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "65.8.178.14",
@@ -263,19 +223,8 @@ Upgrade: websocket\n\n",
       "Info": "Ssl"
     },    
     
-      {
-      "Name": "🔴 CLARO FLEX 🌶️",
-      "FLAG": "claro",
-      "Payload": "",
-      "SNI": "m.twitter.com",
-      "TlsIP": "",
-      "ProxyIP": "[app_host]",
-      "ProxyPort": "443",
-      "Info": "Ssl"
-    },    
-    
        {
-      "Name": "🔴 CLARO CONTROLE 🌶️",
+      "Name": "🔴 CLARO CONTROLE/FLEX 🌶️",
       "FLAG": "claro",
       "Payload": "",
       "SNI": "m.waze.com",
