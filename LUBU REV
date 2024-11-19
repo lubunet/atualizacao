@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.166",
+  "Version": "5.0.167",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 166 ]",
+      "Name": "SERVIDOR - BR2 [ V 167 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -57,16 +57,17 @@
     },
   ],
   "Networks": [ 
+
 {
-      "Name": "🟣 VIVO CLOUD 🍪",
-      "FLAG": "vivo",
-      "Payload": "GET /app1120 HTTP/1.1[crlf]Host: firewallfalcon.canaldotl.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "162.159.135.63",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-},
+            "Name": "🟣 VIVO CLOUD 🍪",
+            "FLAG": "vivo",
+            "Payload": "GET /app1120 HTTP/1.1[crlf]Host: firewallfalcon.canaldotl.573357.xyz[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "SNI": "firewallfalcon.canaldotl.573357.xyz",
+            "TlsIP": "162.159.135.63",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
 
 
 {
