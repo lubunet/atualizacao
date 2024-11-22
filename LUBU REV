@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.169",
+  "Version": "5.0.170",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 169 ]",
+      "Name": "SERVIDOR - BR2 [ V 170 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "claro.wolfbr.online",
@@ -169,13 +169,24 @@
       "Info": "Proxy"
     },
 
+   {
+      "Name": "🔵 TIM REC 🐾",
+      "FLAG": "tim",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][instant_split][crlf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.4.18",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
         {
       "Name": "🔵 TIM MAIS 🐾",
       "FLAG": "tim",
       "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: apf.maisvantagenstim.com.br[crlf][crlf][instant_split]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "172.66.0.157",
+      "ProxyIP": "162.159.140.159",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -202,16 +213,6 @@
       "Info": "Proxy"
     },
 
-{
-      "Name": "🔵 TIM FRONT 2 📡",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: tim.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn27.cdntlcomputingbr.shop;cdn28.cdntlcomputingbr.shop;cdn29.cdntlcomputingbr.shop;cdn30.cdntlcomputingbr.shop;cdn31.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "13.227.126.91",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
 
       {
       "Name": "🔴 CLARO PREZÃO 🌶️",
