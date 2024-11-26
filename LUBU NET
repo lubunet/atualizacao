@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.142",
+  "Version": "5.0.143",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 142 ]",
+      "Name": "SERVIDOR - BR1 [ V 143 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -174,6 +174,17 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.4.18",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+        {
+      "Name": "🔵 TIM MAIS 🐾",
+      "FLAG": "tim",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: www.maisvantagenstim.com.br[crlf][crlf][instant_split]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "162.159.140.159",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
