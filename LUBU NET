@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.144",
+  "Version": "5.0.145",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 144 ]",
+      "Name": "SERVIDOR - BR1 [ V 145 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -60,7 +60,7 @@
 {
             "Name": "🟣 VIVO CLOUD 🍪",
             "FLAG": "vivo",
-            "Payload": "GET /lv HTTP/1.1[crlf]Host: firewallfalcon.canaldotl.573357.xyz[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "Payload": "GET /lv HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.canaldotl.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "firewallfalcon.canaldotl.573357.xyz",
             "TlsIP": "162.159.135.63",
             "ProxyIP": "",
@@ -81,17 +81,6 @@
 
 {
       "Name": "🟣 VIVO SECURITY[2] 🚀",
-      "FLAG": "vivo",
-      "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "166.0.196.158",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-},
-
-{
-      "Name": "🟣 VIVO SECURITY[3] 🚀",
       "FLAG": "vivo",
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
