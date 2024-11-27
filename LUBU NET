@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.145",
+  "Version": "5.0.146",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 145 ]",
+      "Name": "SERVIDOR - BR1 [ V 146 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -58,35 +58,23 @@
   ],
   "Networks": [ 
 {
-            "Name": "🟣 VIVO CLOUD 🍪",
+            "Name": "🟣 VIVO CLOUD [1] 🍪",
             "FLAG": "vivo",
-            "Payload": "GET /lv HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.canaldotl.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "firewallfalcon.canaldotl.573357.xyz",
+            "Payload": "GET /lv HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "SNI": "firewallfalcon.familytlcomputingbr.573357.xyz",
             "TlsIP": "162.159.135.63",
             "ProxyIP": "",
             "ProxyPort": "443",
             "Info": "Tlsws"
 },
 
-{
-      "Name": "🟣 VIVO SECURITY[1] 🚀",
+"Name": "🟣 VIVO CLOUD [2] 🍪",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
+      "Payload": "GET /lv HTTP/1.1[crlf]Host: [rotate=firewallfalcon.canaldotl.573357.xyz;firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "166.0.196.158",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-},
-
-{
-      "Name": "🟣 VIVO SECURITY[2] 🚀",
-      "FLAG": "vivo",
-      "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "166.0.196.158",
-      "ProxyPort": "8080",
+      "ProxyIP": "162.159.135.63",
+      "ProxyPort": "80",
       "Info": "Proxy"
 },
 
