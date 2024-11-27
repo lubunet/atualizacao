@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.147",
+  "Version": "6.0.148",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 147 ]",
+      "Name": "SERVIDOR - BR1 [ V 148 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -68,7 +68,7 @@
             "Info": "Tlsws"
 },
 
-}
+{
 "Name": "🟣 VIVO CLOUD [2] 🍪",
       "FLAG": "vivo",
       "Payload": "GET /lv HTTP/1.1[crlf]Host: [rotate=firewallfalcon.canaldotl.573357.xyz;firewallfalcon.familytlcomputingbr.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]]",
