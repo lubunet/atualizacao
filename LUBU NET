@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.151",
+  "Version": "6.0.152",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 151 ]",
+      "Name": "SERVIDOR - BR1 [ V 152 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps.wolfbr.online",
@@ -181,7 +181,7 @@
 {
       "Name": "🔵 TIM FRONT 1 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn27.cdntlcomputingbr.shop;cdn28.cdntlcomputingbr.shop;cdn29.cdntlcomputingbr.shop;cdn30.cdntlcomputingbr.shop;cdn31.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[lf] [lf]GET /lv HTTP/1.1[crlf]Host: [rotate=cdn31.cdntlcomputingbr.shop;cdn32.cdntlcomputingbr.shop;cdn33.cdntlcomputingbr.shop;cdn34.cdntlcomputingbr.shop;cdn35.cdntlcomputingbr.shop;cdn36.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "99.84.31.8",
@@ -192,7 +192,7 @@
 {
       "Name": "🔵 TIM FRONT 2 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: tim.com.br[lf] [lf]GET /app1120 HTTP/1.1[crlf]Host: [rotate=d1ren78xupwcxe.cloudfront.net;cdn27.cdntlcomputingbr.shop;cdn28.cdntlcomputingbr.shop;cdn29.cdntlcomputingbr.shop;cdn30.cdntlcomputingbr.shop;cdn31.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: tim.com.br[lf] [lf]GET /lv HTTP/1.1[crlf]Host: [rotate=cdn31.cdntlcomputingbr.shop;cdn32.cdntlcomputingbr.shop;cdn33.cdntlcomputingbr.shop;cdn34.cdntlcomputingbr.shop;cdn35.cdntlcomputingbr.shop;cdn36.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "13.227.126.91",
