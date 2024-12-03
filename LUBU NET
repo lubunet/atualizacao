@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.152",
+  "Version": "6.0.153",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,11 +45,11 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 152 ]",
+      "Name": "SERVIDOR - BR1 [ V 153 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "vps.wolfbr.online",
-      "CheckUser": "http://vps.wolfbr.online:1011/checkUser",
+      "ServerIP": "lubulink.lubultda.click",
+      "CheckUser": "http://lubulink.lubultda.click:1011/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -60,8 +60,8 @@
 {
             "Name": "🟣 VIVO CLOUD [1] 🍪",
             "FLAG": "vivo",
-            "Payload": "GET /lv HTTP/1.1[crlf]Host: firewallfalcon.tl0x.573357.xyz[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-            "SNI": "firewallfalcon.tl0x.573357.xyz",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "SNI": "[app_host]",
             "TlsIP": "162.159.135.63",
             "ProxyIP": "",
             "ProxyPort": "443",
