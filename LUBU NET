@@ -59,6 +59,17 @@
   "Networks": [ 
 
 {
+      "Name": "🟣VIVO SECURITY 🚀",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "166.0.196.158",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+    },
+
+{
       "Name": "🟣 VIVO TURBO 📌",
       "FLAG": "vivo",
       "Payload": "ACL / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: Websocket[lf][instant_split][lf]",
