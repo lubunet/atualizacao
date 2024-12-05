@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.176",
+  "Version": "5.0.177",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 176 ]",
+      "Name": "SERVIDOR - BR2 [ V 177 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -59,27 +59,37 @@
   "Networks": [ 
 
 {
-            "Name": "🟣 VIVO CLOUD [1] 🍪",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "162.159.135.63",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-},
-
-{
-"Name": "🟣 VIVO CLOUD [2] 🍪",
+      "Name": "🟣 VIVO SECURITY[1] 🚀",
       "FLAG": "vivo",
-      "Payload": "GET /app1120 HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "162.159.135.63",
-      "ProxyPort": "80",
+      "ProxyIP": "166.0.196.158",
+      "ProxyPort": "8080",
       "Info": "Proxy"
-},
+    },
 
+{
+      "Name": "🟣 VIVO SECURITY[2] 🚀",
+      "FLAG": "vivo",
+      "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "166.0.196.158",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+    },
+
+{
+      "Name": "🟣 VIVO SECURITY[3] 🚀",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "166.0.196.158",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+    },
 
 {
       "Name": "🟣 VIVO TURBO 📌",
