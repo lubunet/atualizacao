@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.154",
+  "Version": "6.0.152",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 154 ]",
+      "Name": "SERVIDOR - BR1 [ V 152 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -57,6 +57,27 @@
     },
   ],
   "Networks": [ 
+{
+            "Name": "🟣 VIVO CLOUD [1] 🍪",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "162.159.135.63",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+},
+
+{
+"Name": "🟣 VIVO CLOUD [2] 🍪",
+      "FLAG": "vivo",
+      "Payload": "GET /lv HTTP/1.1[crlf]Host: firewallfalcon.familytlcomputingbr.573357.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "162.159.135.63",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
 
 {
       "Name": "🟣 VIVO TURBO 📌",
