@@ -63,7 +63,7 @@
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "45.40.99.110",
+      "ProxyIP": "166.0.196.158",
       "ProxyPort": "8080",
       "Info": "Proxy"
 },
@@ -74,7 +74,7 @@
       "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "45.40.99.110",
+      "ProxyIP": "166.0.196.158",
       "ProxyPort": "8080",
       "Info": "Proxy"
 },
@@ -85,7 +85,7 @@
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "45.40.99.110",
+      "ProxyIP": "166.0.196.158",
       "ProxyPort": "8080",
       "Info": "Proxy"
 },
