@@ -44,28 +44,15 @@
 ],
 
   "Servers": [
-    {
-      "Name": "SERVIDOR - BR1 [ V 154 ]",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "lubulink.lubultda.click",
-      "CheckUser": "http://lubulink.lubultda.click:1011/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-  ],
-  "Networks": [ 
 {
-            "Name": "🟣 VIVO CLOUD [1] 🍪",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "162.159.135.63",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
+      "Name": "🟣 VIVO SECURITY[1] 🚀",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "45.40.99.110",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
 },
 
 {
