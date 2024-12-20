@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.155",
+  "Version": "6.0.156",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 155 ]",
+      "Name": "SERVIDOR - BR1 [ V 156 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -98,6 +98,17 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "172.64.154.143",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+{
+      "Name": "🟣 VIVO PONTOS 📌",
+      "FLAG": "vivo",
+      "Payload": "ACL // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY / HTTP/1.1[lf]Host: lubulink.lubultda.click[lf]upgrade: Websocket[lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "172.66.0.157",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
