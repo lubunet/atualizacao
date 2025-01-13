@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.163",
+  "Version": "6.0.159",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 163 ]",
+      "Name": "SERVIDOR - BR1 [ V 159 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -98,9 +98,9 @@
 Host: lv-405196701308.us-central1.run.app
 Connection: Upgrade
 Upgrade: Websocket[crlf][crlf]",
-            "SNI": "lh3.google.com.br",
-            "TlsIP": "lh3.google.com.br",
-            "ProxyIP": "lh3.google.com.br",
+            "SNI": "172.217.28.174",
+            "TlsIP": "172.217.28.174",
+            "ProxyIP": "172.217.28.174",
             "ProxyPort": "443",
             "Info": "Tlsws"
 },
