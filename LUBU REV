@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.178",
+  "Version": "5.0.179",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 178 ]",
+      "Name": "SERVIDOR - BR2 [ V 179 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -65,7 +65,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "45.40.99.110",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
 
@@ -76,7 +76,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "45.40.99.110",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
 
@@ -87,7 +87,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "45.40.99.110",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     },
 
