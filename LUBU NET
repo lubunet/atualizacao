@@ -98,9 +98,9 @@
 Host: lv-405196701308.us-central1.run.app
 Connection: Upgrade
 Upgrade: Websocket[crlf][crlf]",
-            "SNI": "172.217.28.174",
-            "TlsIP": "172.217.28.174",
-            "ProxyIP": "172.217.28.174",
+            "SNI": "lh3.google.com.br",
+            "TlsIP": "lh3.google.com.br",
+            "ProxyIP": "lh3.google.com.br",
             "ProxyPort": "443",
             "Info": "Tlsws"
 },
