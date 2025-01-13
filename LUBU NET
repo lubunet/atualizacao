@@ -97,7 +97,7 @@
             "Payload": "GET / HTTP/1.1
 Host: lv-405196701308.us-central1.run.app
 Connection: Upgrade
-Upgrade: Websocket[crlf][crlf]",
+Upgrade: Websocket\n\n",
             "SNI": "172.217.28.174",
             "TlsIP": "172.217.28.174",
             "ProxyIP": "172.217.28.174",
