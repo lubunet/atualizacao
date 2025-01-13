@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.158",
+  "Version": "6.0.159",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 158 ]",
+      "Name": "SERVIDOR - BR1 [ V 159 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -90,6 +90,20 @@
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
+
+{
+            "Name": "🟣 VIVO GCLOUD 🍃",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1
+Host: lv-405196701308.us-central1.run.app
+Connection: Upgrade
+Upgrade: Websocket\n\n",
+            "SNI": "lh3.google.com.br",
+            "TlsIP": "lv-405196701308.us-central1.run.app",
+            "ProxyIP": "lh3.google.com.br",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+},
 
 {
       "Name": "🟣 VIVO TURBO 📌",
