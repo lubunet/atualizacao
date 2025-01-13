@@ -92,14 +92,14 @@
     },
 
 {
-            "Name": "🟣 VIVO GCLOUD 🍃",
+            "Name": "🟣 VIVO GCLOUD ip 🍃",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1
 Host: lv-405196701308.us-central1.run.app
 Connection: Upgrade
 Upgrade: Websocket[crlf][crlf]",
             "SNI": "172.217.28.174",
-            "TlsIP": "172.217.28.174,
+            "TlsIP": "172.217.28.174",
             "ProxyIP": "172.217.28.174",
             "ProxyPort": "443",
             "Info": "Tlsws"
