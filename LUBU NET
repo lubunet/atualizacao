@@ -202,7 +202,7 @@
     },
 
 {
-      "Name": "🔵 TIM FRONT 1 📡",
+      "Name": "🔵 TIM FRONT 📡",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET / HTTP/1.1[lf]Host: dgfly1ngi3fs8.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
