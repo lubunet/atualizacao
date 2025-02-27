@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.161",
+  "Version": "6.0.162",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 161 ]",
+      "Name": "SERVIDOR - BR1 [ V 162 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -204,21 +204,10 @@
 {
       "Name": "🔵 TIM FRONT 1 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: planoscontrole.tim.com.br[lf] [lf]GET /lv HTTP/1.1[crlf]Host: [rotate=cdn31.cdntlcomputingbr.shop;cdn32.cdntlcomputingbr.shop;cdn33.cdntlcomputingbr.shop;cdn34.cdntlcomputingbr.shop;cdn35.cdntlcomputingbr.shop;cdn36.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET / HTTP/1.1[lf]Host: dgfly1ngi3fs8.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.31.8",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-
-{
-      "Name": "🔵 TIM FRONT 2 📡",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: tim.com.br[lf] [lf]GET /lv HTTP/1.1[crlf]Host: [rotate=cdn31.cdntlcomputingbr.shop;cdn32.cdntlcomputingbr.shop;cdn33.cdntlcomputingbr.shop;cdn34.cdntlcomputingbr.shop;cdn35.cdntlcomputingbr.shop;cdn36.cdntlcomputingbr.shop][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "13.227.126.91",
+      "ProxyIP": "108.139.113.82",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
