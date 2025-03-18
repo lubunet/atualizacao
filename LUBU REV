@@ -75,7 +75,7 @@
       "Payload": "GET /app7 HTTP/1.1[crlf]Host: gcloud3-568317791288.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "pubsub.googleapis.com",
       "TlsIP": "pubsub.googleapis.com",
-      "ProxyIP": "gcloud3-568317791288.southamerica-east1.run.app",
+      "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Proxy"
     },
