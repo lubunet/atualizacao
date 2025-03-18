@@ -70,6 +70,17 @@
     },
 
 {
+      "Name": "🟣 VIVO Gcloud 🚀",
+      "FLAG": "vivo",
+      "Payload": "GET /app7 HTTP/1.1[crlf]Host: gcloud3-568317791288.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "pubsub.googleapis.com",
+      "TlsIP": "pubsub.googleapis.com",
+      "ProxyIP": "gcloud3-568317791288.southamerica-east1.run.app",
+      "ProxyPort": "443",
+      "Info": "Proxy"
+    },
+
+{
       "Name": "🟣 VIVO SECURITY[2] 🚀",
       "FLAG": "vivo",
       "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
