@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.183",
+  "Version": "5.0.184",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 183 ]",
+      "Name": "SERVIDOR - BR2 [ V 184 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -67,17 +67,6 @@
       "ProxyIP": "189.127.165.106",
       "ProxyPort": "8008",
       "Info": "Proxy"
-    },
-
-{
-      "Name": "🟣 VIVO Gclourd 🚀",
-      "FLAG": "vivo",
-      "Payload": "GET /app7 HTTP/1.1[crlf]Host: gcloud3-568317791288.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "pubsub.googleapis.com",
-      "TlsIP": "172.217.30.234",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
     },
 
 {
@@ -211,7 +200,16 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-
+{
+      "Name": "🔵 TIM GCLOUD 📡",
+      "FLAG": "tim",
+      "Payload": "GET /app7 HTTP/1.1[crlf]Host: gcloud3-568317791288.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "pubsub.googleapis.com",
+      "TlsIP": "172.217.30.234",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
 
       {
       "Name": "🔴 CLARO PREZÃO 🌶️",
