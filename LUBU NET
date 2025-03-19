@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.165",
+  "Version": "6.0.166",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 165 ]",
+      "Name": "SERVIDOR - BR1 [ V 166 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -169,7 +169,7 @@
     },
 
 {
-      "Name": "🔵 TIM APP1 🐾",
+      "Name": "🔵 TIM APP 🐾",
       "FLAG": "tim",
       "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: appsflyer.com[crlf][crlf][instant_split]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
