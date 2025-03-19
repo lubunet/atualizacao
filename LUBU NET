@@ -169,9 +169,9 @@
     },
 
 {
-      "Name": "🔵 TIM APP 🐾",
+      "Name": "🔵 TIM APP1 🐾",
       "FLAG": "tim",
-      "Payload": "ACL /cgi/trace HTTP/1.1[lf]Host: appsflyer.com[crlf][crlf][instant_split][crlf]ACL / HTTP/1.1[crlf]Host:  [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: appsflyer.com[crlf][crlf][instant_split]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "162.159.140.159",
