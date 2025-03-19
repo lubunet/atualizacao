@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.164",
+  "Version": "6.0.165",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 164 ]",
+      "Name": "SERVIDOR - BR1 [ V 165 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -168,13 +168,13 @@
       "Info": "Proxy"
     },
 
-   {
-      "Name": "🔵 TIM REC 🐾",
+{
+      "Name": "🔵 TIM APP 🐾",
       "FLAG": "tim",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][instant_split][crlf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "ACL /cgi/trace HTTP/1.1[lf]Host: appsflyer.com[crlf][crlf][instant_split][crlf]ACL / HTTP/1.1[crlf]Host:  [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.18.4.18",
+      "ProxyIP": "162.159.140.159",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
