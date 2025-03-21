@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.188",
+  "Version": "5.0.189",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 188 ]",
+      "Name": "SERVIDOR - BR2 [ V 189 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -101,6 +101,18 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+
+{
+      "Name": "🟣 VIVO PONTOS 2 📌",
+      "FLAG": "vivo",
+      "Payload": "ACL wss://[app_host] HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf] [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.26.12.205",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
 
     {
       "Name": "🟣 VIVO EASY[1] 🔛",
@@ -193,7 +205,7 @@
 {
       "Name": "🔵 TIM FRONT 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET / HTTP/1.1[lf]Host: d37i6kq5urqweb.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
+      "Payload": "GET / HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET / HTTP/1.1[lf]Host: [rotate=d37i6kq5urqweb.cloudfront.net;dl5p3weiodtsa.cloudfront.net][lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.113.82",
