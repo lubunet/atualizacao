@@ -203,9 +203,9 @@
     },
 
 {
-      "Name": "🔵 TIM FRONT 2 📡",
+      "Name": "🔵 TIM FRONT 2e 📡",
       "FLAG": "tim",
-      "Payload": "GET wss://tim.com.br/ HTTP/1.1[lf]Host: tim.com.br[lf][lf][instant_split][lf][lf]GET- / HTTP/1.1[lf]Host: d37i6kq5urqweb.cloudfront.net[lf][lf]GET / HTTP/1.1[lf]Host: d37i6kq5urqweb.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[instant_split][lf][lf]",
+      "Payload": "GET wss://tim.com.br/ HTTP/1.1[crlf]Host: tim.com.br[crlf][crlf][instant_split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf] [crlf]GET /snowssh HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "99.84.28.169",
