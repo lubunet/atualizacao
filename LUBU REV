@@ -203,15 +203,15 @@
     },
 
 {
-      "Name": "🔵 TIM FRONT 📡",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET / HTTP/1.1[lf]Host: [rotate=d37i6kq5urqweb.cloudfront.net;dl5p3weiodtsa.cloudfront.net][lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.139.113.82",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
+      "Name": "🔵 TIM 2 FRONT 📡",
+      "FLAG": "tim",
+      "Payload": "[delay_split][crlf]GET / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host:d37i6kq5urqweb.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][instant_split][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "99.84.28.169",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
 {
       "Name": "🔵 TIM GCLOUD 📡",
       "FLAG": "tim",
