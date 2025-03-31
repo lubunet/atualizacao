@@ -203,12 +203,12 @@
     },
 
 {
-      "Name": "🔵 TIM FRONT 2e 📡",
+      "Name": "🔵 TIM FRONT 📡",
       "FLAG": "tim",
-      "Payload": "GET wss://tim.com.br/ HTTP/1.1[crlf]Host: tim.com.br[crlf][crlf][instant_split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf] [crlf]GET /snowssh HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET / HTTP/1.1[lf]Host: [rotate=d37i6kq5urqweb.cloudfront.net;dl5p3weiodtsa.cloudfront.net][lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.28.169",
+      "ProxyIP": "108.139.113.82",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
