@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.195",
+  "Version": "5.0.196",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 195 ]",
+      "Name": "SERVIDOR - BR2 [ V 196 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -205,10 +205,10 @@
 {
       "Name": "🔵 TIM FRONT 📡",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET / HTTP/1.1[lf]Host: [rotate=d37i6kq5urqweb.cloudfront.net;dl5p3weiodtsa.cloudfront.net][lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
+      "Payload": "GET wss://tim.com.br/ HTTP/1.1[crlf]Host: tim.com.br[crlf][crlf][instant_split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf][crlf]GET / HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[instant_split][crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.139.113.82",
+      "ProxyIP": "99.84.28.169",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
