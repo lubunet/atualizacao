@@ -201,17 +201,6 @@
       "Info": "Proxy"
     },
 
-{
-      "Name": "🔵 TIM FRONT 📡",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET / HTTP/1.1[lf]Host: [rotate=d3vpe5g92lihqa.cloudfront.net;d1rh5s0bpt253w.cloudfront.net][lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.139.113.82",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-
       {
       "Name": "🔴 CLARO PREZÃO 🌶️",
       "FLAG": "claro",
