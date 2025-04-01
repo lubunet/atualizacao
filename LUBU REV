@@ -203,9 +203,9 @@
     },
 
 {
-      "Name": "🔵 TIM E2 FRONT 📡",
+      "Name": "🔵 TIM E3 FRONT 📡",
       "FLAG": "tim",
-      "Payload": "[split][crlf]MOVE / HTTP/1.1[crlf]Host: tim.com.br[crlf][crlf][instant_split]GET- / HTTP/1.1[crlf]Host:d37i6kq5urqweb.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][instant_split][crlf]",
+      "Payload": "[split][crlf]MOVE / HTTP/1.1[crlf]Host: tim.com.br[crlf][crlf][instant_split]GET- / HTTP/1.1[crlf]Host:d37i6kq5urqweb.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "99.84.28.169",
