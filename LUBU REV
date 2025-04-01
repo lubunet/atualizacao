@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.196",
+  "Version": "5.0.197",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 196 ]",
+      "Name": "SERVIDOR - BR2 [ V 197]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -203,19 +203,20 @@
     },
 
 {
-      "Name": "🔵 1 TIM FRONT 📡",
+      "Name": "🔵 TIM FRONT 📡",
       "FLAG": "tim",
-      "Payload": "[delay_split][crlf]GET / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET / HTTP/1.1[crlf]Host:d37i6kq5urqweb.cloudfront.net[crlf] [crlf]GET / HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][instant_split][crlf]",
+      "Payload": "GET / HTTP/1.1[lf]Host: apple.entitlement-lab.tim.com.br[lf] [lf]GET / HTTP/1.1[lf]Host: [rotate=d37i6kq5urqweb.cloudfront.net;dl5p3weiodtsa.cloudfront.net][lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.28.169",
+      "ProxyIP": "108.139.113.82",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+
 {
       "Name": "🔵 TIM GCLOUD 📡",
       "FLAG": "tim",
-      "Payload": "GET /app7 HTTP/1.1[crlf]Host: gp3temp-308745629580.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET /app7 HTTP/1.1[crlf]Host: ladoctemp-347055540824.us-central1.run.app[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "pubsub.googleapis.com",
       "TlsIP": "172.217.30.234",
       "ProxyIP": "",
