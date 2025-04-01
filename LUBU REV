@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.197",
+  "Version": "5.0.198",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 197]",
+      "Name": "SERVIDOR - BR2 [ V 198]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -147,13 +147,14 @@
       "Info": "Proxy"
     },
 
-    {
+
+{
       "Name": "🟣 VIVO CONTROLE[1] 🍀",
       "FLAG": "vivo",
-      "Payload": "CLOUD-BRASIL wss://[app_host] HTTP/1.1[crlf]Host: playwaze.com [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]CLOUD-BRASIL[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.26.5.32",
+      "ProxyIP": "141.193.213.10",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -198,17 +199,6 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.19.241.93",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-
-{
-      "Name": "🔵 TIM E3 FRONT 📡",
-      "FLAG": "tim",
-      "Payload": "[split][crlf]MOVE / HTTP/1.1[crlf]Host: tim.com.br[crlf][crlf][instant_split]GET- / HTTP/1.1[crlf]Host:d37i6kq5urqweb.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d37i6kq5urqweb.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "99.84.28.169",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
