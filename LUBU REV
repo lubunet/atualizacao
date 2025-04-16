@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.210",
+  "Version": "5.0.211",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 210]",
+      "Name": "SERVIDOR - BR2 [ V 211]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -208,7 +208,7 @@
       "FLAG": "tim",
       "Payload": "GET /app7 HTTP/1.1[crlf]Host: [rotate=c30binb-581834686703.southamerica-east1.run.app;c85ve52-664847321997.southamerica-east1.run.app;c5i8w51-613373495263.southamerica-east1.run.app;c30binb-728165357744.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "pubsub.googleapis.com",
-      "TlsIP": "172.217.30.234",
+      "TlsIP": "142.251.128.168",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
