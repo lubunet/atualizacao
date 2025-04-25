@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.168",
+  "Version": "6.0.169",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 168 ]",
+      "Name": "SERVIDOR - BR1 [ V 169 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -64,7 +64,7 @@
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "166.0.196.158",
+      "ProxyIP": "69.166.232.178",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
@@ -75,7 +75,7 @@
       "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "166.0.196.158",
+      "ProxyIP": "69.166.232.178",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
@@ -86,7 +86,7 @@
       "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: analytics.google.com[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "166.0.196.158",
+      "ProxyIP": "69.166.232.178",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
