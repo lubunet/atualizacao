@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.171",
+  "Version": "6.0.172",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 171 ]",
+      "Name": "SERVIDOR - BR1 [ V 172 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -195,11 +195,9 @@
       "FLAG": "tim",
       "Payload": "POLL /?/ HTTP/1.1
 Host: Life-kongeaaen.com.Adorable-loving-strawberry.com.Analytics-gce.cheaptickets.lu
-
 [crlf][crlf][instant_split][crlf]
-
 ACL / HTTP/1.1
-host: lubulink.lubultda.click
+host: revlink.lubultda.click
 upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
