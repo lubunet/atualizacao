@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.170",
+  "Version": "6.0.171",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 170 ]",
+      "Name": "SERVIDOR - BR1 [ V 171 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -191,12 +191,19 @@
     },
 
     {
-      "Name": "🔵 TIM FRONT 🐾",
+      "Name": "🔵 TIM E VIVO 🐾",
       "FLAG": "tim",
-      "Payload": "GET wss://www.tim.com.br/ HTTP/1.1[crlf]Host: www.tim.com.br[crlf][crlf][instant_split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: [host][crlf][crlf]GET / HTTP/1.1[crlf]Host: d2bd8d5ojvm6bb.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "POLL /?/ HTTP/1.1
+Host: Life-kongeaaen.com.Adorable-loving-strawberry.com.Analytics-gce.cheaptickets.lu
+
+[crlf][crlf][instant_split][crlf]
+
+ACL / HTTP/1.1
+host: lubulink.lubultda.click
+upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "52.85.213.91",
+      "ProxyIP": "104.18.10.131",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
