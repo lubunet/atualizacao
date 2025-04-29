@@ -1,5 +1,5 @@
 {
-  "Version": "6.0.173",
+  "Version": "6.0.174",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20NET",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR1 [ V 173 ]",
+      "Name": "SERVIDOR - BR1 [ V 174 ]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "lubulink.lubultda.click",
@@ -193,10 +193,10 @@
     {
       "Name": "🔵 TIM E VIVO 🐾",
       "FLAG": "tim",
-      "Payload": "POLL / HTTP/1.1[crlf]Host: Life-kongeaaen.com.Adorable-loving-strawberry.com.Analytics-gce.cheaptickets.lu[crlf][crlf][instant_split][crlf]ACL /path HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "MERGE /cdn-cgi/trace HTTP/1.1[crlf][host_port][instant_split][crlf]Host: Dashboards.lpu.in.Fikfap.com[crlf][lf][instant_split][lf]PATCH / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Upgrade[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.18.10.131",
+      "ProxyIP": "104.18.53.111",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
