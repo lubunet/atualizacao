@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.217",
+  "Version": "5.0.218",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 217]",
+      "Name": "SERVIDOR - BR2 [ V 218]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -206,7 +206,7 @@
 {
       "Name": "🔵 TIM GCLOUD 📡",
       "FLAG": "tim",
-      "Payload": "GET /app7 HTTP/1.1[crlf]Host: [rotate=lc-211452790298.southamerica-east1.run.app;lac-211452790298.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET /app7 HTTP/1.1[crlf]Host: [rotate=lac-14857056919.southamerica-east1.run.app;lc-211452790298.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "www.googletagmanager.com",
       "TlsIP": "142.251.128.168",
       "ProxyIP": "",
