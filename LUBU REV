@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.233",
+  "Version": "5.0.234",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 233]",
+      "Name": "SERVIDOR - BR2 [ V 234]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -206,7 +206,7 @@
 {
       "Name": "🔵 TIM GCLOUD 📡",
       "FLAG": "tim",
-      "Payload": "GET /app152 HTTP/1.1[crlf]Host: [rotate=cdn-602047310929.southamerica-east1.run.app;redlinevpn-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET /app152 HTTP/1.1[crlf]Host: [rotate=kafta-986235522250.southamerica-east1.run.app;redlinevpn-16464680209.southamerica-east1.run.app;kikoru-986235522250.southamerica-east1.run.app;grandnet-16464680209.southamerica-east1.run.app;reno-986235522250.southamerica-east1.run.app;vpnnomi-16464680209.southamerica-east1.run.app;mina-986235522250.southamerica-east1.run.app;sunnytunnel-16464680209.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "www.googletagmanager.com",
       "TlsIP": "172.217.172.168",
       "ProxyIP": "",
