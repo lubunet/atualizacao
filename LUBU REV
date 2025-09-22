@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.234",
+  "Version": "5.0.235",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 234]",
+      "Name": "SERVIDOR - BR2 [ V 235]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -113,6 +113,16 @@
       "Info": "Proxy"
     },
 
+{
+      "Name": "🟣 VIVO EASY LIGHT 🔛",
+      "FLAG": "vivo",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][instant_split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "172.64.150.8",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
 
     {
       "Name": "🟣 VIVO EASY[1] 🔛",
