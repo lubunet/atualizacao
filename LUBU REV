@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.239",
+  "Version": "5.0.240",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 239]",
+      "Name": "SERVIDOR - BR2 [ V 240]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -72,7 +72,7 @@
 {
       "Name": "🟣 VIVO SECURITY[2] ddd 91 🚀",
       "FLAG": "vivo",
-      "Payload": "[split]HTTP/ [lf][lf]",
+      "Payload": "[instant_split]HTTP/ [lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "189.127.165.106",
@@ -105,7 +105,7 @@
 {
       "Name": "🟣 VIVO PONTOS 📌",
       "FLAG": "vivo",
-      "Payload": "ACL // [instant_split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][instant_split][lf]BCOPY / HTTP/1.1[lf]Host: [app_host][lf]upgrade: Websocket[lf][lf]",
+      "Payload": "ACL // [instant_split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][instant_split][lf]BCOPY / HTTP/1.1[lf]Host: tim2.toroideas.shop[lf]upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.26.12.205",
