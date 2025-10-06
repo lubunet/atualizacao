@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.236",
+  "Version": "5.0.237",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 236]",
+      "Name": "SERVIDOR - BR2 [ V 237]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -181,23 +181,23 @@
     },
    
 {
-      "Name": "🔵 TIM GROUP 🐾",
+      "Name": "🔵 TIM BANCAH 🐾",
       "FLAG": "tim",
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]Host: www.timgroup.com[lf]application/merge-patch+json (RFC 7396):[lf][lf][instant_split][lf]GET-RAY / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][instant_split]UNLOCK /? HTTP/1.1[crlf]Host: tim2.toroideas.shop[crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][instant_split]UNLOCK /? HTTP/1.1[crlf]Host: bancah.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "23.227.60.200",
+      "ProxyIP": "bancah.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
 
         {
-      "Name": "🔵 TIM SHOP 🐾",
+      "Name": "🔵 TIM FRONT 🐾",
       "FLAG": "tim",
-      "Payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]Host: br.networlds.shop[crlf][lf][instant_split][lf]GET-RAY / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf]User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.94 Safari/537.36[lf][lf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;meuplano2.tim.com.br;auth.tim.com.br;meutim.com.br;auth2.tim.com.br;auth1.tim.com.br;auth3.tim.com.br;seu.timpromos.com.br;www.timpromos.com.br;timpromos.com.br][lf][lf]ACL / HTTP/1.1[lf]Host: [rotate=meutim.tim.com.br;meuplano2.tim.com.br;auth.tim.com.br;meutim.com.br;auth2.tim.com.br;auth1.tim.com.br;auth3.tim.com.br;seu.timpromos.com.br;www.timpromos.com.br;timpromos.com.br][crlf][instant_split][lf][lf]CHECKIN / HTTP/1.1[lf]Host:  www.timpromos.com.br[lf][lf]GET /app448964 HTTP/1.1[crlf]Host: [rotate=centraldacdn-02.dns-theromshost.com;centraldacdn-01.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][instant_split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.19.252.8",
+      "ProxyIP": "108.158.186.66",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
