@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.237",
+  "Version": "5.0.238",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/lubunet/atualizacao/main/LUBU%20REV",
   "Sms": "https://raw.githubusercontent.com/lubunet/atualizacao/main/SMS",
@@ -45,7 +45,7 @@
 
   "Servers": [
     {
-      "Name": "SERVIDOR - BR2 [ V 237]",
+      "Name": "SERVIDOR - BR2 [ V 238]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "revlink.lubultda.click",
@@ -196,11 +196,22 @@
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;meuplano2.tim.com.br;auth.tim.com.br;meutim.com.br;auth2.tim.com.br;auth1.tim.com.br;auth3.tim.com.br;seu.timpromos.com.br;www.timpromos.com.br;timpromos.com.br][lf][lf]ACL / HTTP/1.1[lf]Host: [rotate=meutim.tim.com.br;meuplano2.tim.com.br;auth.tim.com.br;meutim.com.br;auth2.tim.com.br;auth1.tim.com.br;auth3.tim.com.br;seu.timpromos.com.br;www.timpromos.com.br;timpromos.com.br][crlf][instant_split][lf][lf]CHECKIN / HTTP/1.1[lf]Host:  www.timpromos.com.br[lf][lf]GET /app448964 HTTP/1.1[crlf]Host: [rotate=centraldacdn-02.dns-theromshost.com;centraldacdn-01.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][instant_split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
+      "TlsIP": "108.158.186.66",
       "ProxyIP": "108.158.186.66",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+
+{
+"Name": "TIM FRONT T",
+"FLAG": "tim",
+"Payload": "HEAD / HTTP/1.1[crlf]Host: meutim.tim.com.br[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: meutim.tim.com.br[lf][lf]GET / HTTP/1.1[crlf]Host: [rotate=centraldacdn-02.dns-theromshost.com;centraldacdn-01.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][lf]Backend: app448964 [lf]Connection:  Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googl/ebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+"SNI": "",
+"TlsIP": "108.158.186.66",
+"ProxyIP": "108.158.186.66",
+"ProxyPort": "80",
+"Info": "Proxy"
+},
 
     {
       "Name": "🔵 TIM E VIVO 🐾",
