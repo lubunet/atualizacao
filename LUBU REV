@@ -70,9 +70,9 @@
     },
 
 {
-      "Name": "🟣 VIVO SECURITY[2] 🚀",
+      "Name": "🟣 VIVO SECURITY[2] ddd 91 🚀",
       "FLAG": "vivo",
-      "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
+      "Payload": "[split]HTTP/ [lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "189.127.165.106",
@@ -103,9 +103,9 @@
     },
 
 {
-      "Name": "🟣 VIVO PONTOS 2 📌",
+      "Name": "🟣 VIVO PONTOS 📌",
       "FLAG": "vivo",
-      "Payload": "ACL wss://[app_host] HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf] [crlf][crlf]",
+      "Payload": "ACL // [instant_split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][instant_split][lf]BCOPY / HTTP/1.1[lf]Host: [app_host][lf]upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.26.12.205",
@@ -183,43 +183,10 @@
 {
       "Name": "🔵 TIM BANCAH 🐾",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][instant_split]UNLOCK /? HTTP/1.1[crlf]Host: tim2.toroideas.shop[crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][instant_split]UNLOCK /? HTTP/1.1[crlf]Host: bancah.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][instant_split]UNLOCK /? HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][instant_split]UNLOCK /? HTTP/1.1[crlf]Host: bancah.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "bancah.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-
-        {
-      "Name": "🔵 TIM FRONT 🐾",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=meutim.tim.com.br;meuplano2.tim.com.br;auth.tim.com.br;meutim.com.br;auth2.tim.com.br;auth1.tim.com.br;auth3.tim.com.br;seu.timpromos.com.br;www.timpromos.com.br;timpromos.com.br][lf][lf]ACL / HTTP/1.1[lf]Host: [rotate=meutim.tim.com.br;meuplano2.tim.com.br;auth.tim.com.br;meutim.com.br;auth2.tim.com.br;auth1.tim.com.br;auth3.tim.com.br;seu.timpromos.com.br;www.timpromos.com.br;timpromos.com.br][crlf][instant_split][lf][lf]CHECKIN / HTTP/1.1[lf]Host:  www.timpromos.com.br[lf][lf]GET /app448964 HTTP/1.1[crlf]Host: [rotate=centraldacdn-02.dns-theromshost.com;centraldacdn-01.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][crlf]Connection: upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][instant_split]UNLOCK /? HTTP/1.1[crlf]Host: www.timpromos.com.br[crlf]Content-Length:9999999999999[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "108.158.186.66",
-      "ProxyIP": "108.158.186.66",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-
-{
-"Name": "TIM FRONT T",
-"FLAG": "tim",
-"Payload": "HEAD / HTTP/1.1[crlf]Host: meutim.tim.com.br[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: meutim.tim.com.br[lf][lf]GET / HTTP/1.1[crlf]Host: [rotate=centraldacdn-02.dns-theromshost.com;centraldacdn-01.dns-theromshost.com;centraldacdn-4.dns-theromshost.com][lf]Backend: app448964 [lf]Connection:  Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googl/ebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
-"SNI": "",
-"TlsIP": "108.158.186.66",
-"ProxyIP": "108.158.186.66",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-
-    {
-      "Name": "🔵 TIM E VIVO 🐾",
-      "FLAG": "tim",
-      "Payload": "MERGE /cdn-cgi/trace HTTP/1.1[crlf][host_port][crlf]Host: Dashboards.lpu.in.Fikfap.com[crlf][lf][instant_split][lf]PATCH / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: websocket[lf]Connection: Upgrade[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[lf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.18.53.111",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
